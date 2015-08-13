@@ -34,7 +34,7 @@ public class MainActivity extends ActionBarActivity {
             labelStrs.add("god god ");
             labelStrs.add("god ");
             labelStrs.add("god god god god god god god god god ");
-
+            labelStrs.add("sdfsdfsdfsdvferg");
         }
 
         // 添加流式标签
